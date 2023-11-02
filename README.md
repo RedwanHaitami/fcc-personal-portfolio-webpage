@@ -1,6 +1,7 @@
 # Personal Portfolio Webpage 
 
 Personal portfolio webpage project created for freeCodeCamp Responsive Web Design Certification.<br>
+<br>
 
 ## preview 
 
@@ -9,7 +10,7 @@ Personal portfolio webpage project created for freeCodeCamp Responsive Web Desig
 
 ## Live Demo 
 
-Check it out on [Github Webpages]()<br>
+Check it out on [Github Webpages](https://redwanhaitami.github.io/fcc-personal-portfolio-webpage/)<br>
 <br>
 
 ## Objective 
